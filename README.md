@@ -1,24 +1,26 @@
 # 矿石镇的攻略百科的视觉识别系统
 
-![logo_no_text](./logo_no_text.png)
+<img src="./logo_no_text.png" width = "300" align=center />
 
 ## LOGO
 
-![logo_zh](./logo_zh.png)
-![logo_en](./logo_en.png)
+<img src="./logo_zh.png" width = "300" align=center />
+<img src="./logo_en.png" width = "300" align=center />
 
 ## 吉祥物
 
-![Mascot](./Mascot.png)
+<img src="./Mascot.png" width = "300" align=center />
+
 吉祥物是一只来自于「牧场物语 重聚矿石镇」中的宠物狗。
-如果哪天收到了Marvelous的律师函，我们就换掉它。  【bushi
+如果哪天收到了Marvelous的律师函，我们就换掉它。【bushi
 
 The mascot is a dog from the "STORY OF SEASONS: Friends of Mineral Town"
-If we receive a letter from Marvelous’s lawyer one day, we will replace it ： (
+If we receive a letter from Marvelous’s lawyer one day, we will replace it :(
 
 ### 圆角图标
 
-![logo_app](./logo_app.png)
+<img src="./logo_app.png" width = "300" align=center />
+
 万一哪天我们推出了自己的应用，logo就会长这样。
 
 If one day we launch our own application, the logo will look like this.
